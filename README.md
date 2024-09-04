@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @Matheuzferreira
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# [Matheus ferreira] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/https://media.tenor.com/CjvFjsmR5U0AAAAj/spongebob-heart.gif" width="30px">
 
-<!---
-Matheuzferreira/Matheuzferreira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Eu sou <strong>Matheus</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
+
+- 🚀 Atualmente estou cursando: ADS <strong>Coloque as linguagens que você atualmente está aprendendo</strong> 
+- 💬 Pergunte-me sobre: <strong>estudar e jogar</strong>
+- 📣 Nós podemos falar em: <strong>Portugues</strong>
+
+<div align="center">
+
+  <a href="#" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL"/></a>
+
+  <a href="#" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+
+  <a href="#" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+
+</div>
