@@ -1,9 +1,9 @@
-# [Matheus ferreira] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/https://media.tenor.com/CjvFjsmR5U0AAAAj/spongebob-heart.gif" width="30px">
+# [Matheus ferreira] <img src="https://media.tenor.com/CjvFjsmR5U0AAAAj/spongebob-heart.gif" width="30px">
 
-Eu sou <strong>Matheus</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
+Eu sou <strong>Matheus</strong>, <strong>estou no segundo período do curso de Análise e Desenvolvimento de Sistemas (ADS) na Faculdade Senac, em Pernambuco. Estou muito interessado em tecnologia e em como ela pode fazer a diferença. Quero aprender mais sobre a área e aplicar meus conhecimentos para ajudar no meu futuro ambiente de trabalho.</strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou cursando: ADS <strong>Coloque as linguagens que você atualmente está aprendendo</strong> 
-- 💬 Pergunte-me sobre: <strong>estudar e jogar</strong>
+- 🚀 Atualmente estou cursando: ADS <strong></strong> 
+
 - 📣 Nós podemos falar em: <strong>Portugues</strong>
 
 <div align="center">
